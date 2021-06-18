@@ -19,7 +19,7 @@ body{
 /*navbar atas*/
 .menu-atas{
 	display: flex;
-	background-color: black;
+	background-color: #38B4A7;
 	justify-content: space-around;
 	/*padding: 20px 0;*/
   	width: 100%;
